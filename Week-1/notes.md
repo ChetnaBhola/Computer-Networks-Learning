@@ -7,4 +7,4 @@ These are my notes while studying for Comptia Network+.
 ![n1 4](https://github.com/user-attachments/assets/f98e84fa-ecd1-4e4b-bafa-8c05d48d61b0)
 
 ### See my Weekly progress here:
-(../README.md#week-1)
+(../README.md##Week-1)
