@@ -11,3 +11,4 @@ Here, I will share networking concept that I am learning.
 - cabling (Copper cable, Fiber optic cable and console/management cable)
 
 For now, The book I used was Comptia Network+ and Youtube videos.
+[Detailed Notes of Week-1](../README.md#week-1)
